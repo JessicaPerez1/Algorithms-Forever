@@ -10,3 +10,13 @@ var isPalindrome = function (str) {
     return false;
   }
 };
+// var isPalindrome = function (str) {
+//   //create a new str var
+//   let reversed = "";
+//   //loop through str to grab each character
+//   for (let char of str) {
+//     reversed = char + reversed;
+//   }
+//   //push to the reversed string
+//   return reversed;
+// };
